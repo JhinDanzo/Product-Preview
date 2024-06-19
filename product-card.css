@@ -107,7 +107,7 @@ body{
     cursor: pointer;
 }
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 1000px){
     .card-body{
         box-sizing: border-box;
         width: 343px;
